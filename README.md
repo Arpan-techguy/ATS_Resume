@@ -1,4 +1,5 @@
-# ATS_Resume
+# ATS_Resume_Checker
+
 It is a LLM/Gen-AI based project where I have used Google Gemini Api for ATS Resume checking .
 
 It takes the Job Description and the the Resume PDF as input and gives the percentage maching and Key words missing from the resume and what more improvements needed
